@@ -15,8 +15,8 @@ public class JavaApplication2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Trying integratimg github with pivotal tracker");
-        System.out.println("version 2");
+        System.out.println("Trying integratimg github with pivotal tracker and travis");
+        System.out.println("version 3");
         System.out.println("hello");
         System.out.println("welcome");
     }
